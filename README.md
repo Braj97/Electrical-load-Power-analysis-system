@@ -76,3 +76,8 @@ alert(
 );
 
 console.log("Electrical Calculation Completed Successfully");
+
+#OUTPUTS
+https://i.supaimg.com/3d2170ac-3122-4f7d-bc02-c24ef0e75ae3.jpg
+https://i.supaimg.com/97234b1c-7b4d-48ae-96af-2a39aec3ae16.jpg
+#OUTPUTS
